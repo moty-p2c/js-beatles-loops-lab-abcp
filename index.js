@@ -15,3 +15,12 @@ function johnLennonFacts(facts){
   }
   return newArr;
 }
+
+function iLoveTheBeatles(num){
+  let newArr=[];
+  while (num<15){
+    newArr.push("I love the Beatles!")
+    num++
+  }
+  return newArr;
+}
